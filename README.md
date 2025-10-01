@@ -36,4 +36,4 @@ Filter by Category
 ## Data Snapshots
 ![Table](https://github.com/Ola-ykay/Sales-Performance/blob/main/Sales-Perf-Table.png)
 ![Analysis](https://github.com/Ola-ykay/Sales-Performance/blob/main/Analysis-Sales.png)
-![Dashboard](https://github.com/Ola-ykay/Sales-Performance/blob/main/Sales-Perf-Dashboard.png)
+![Dashboard](https://github.com/Ola-ykay/Sales-Performance/blob/main/sales-perf-dashboard.png)
