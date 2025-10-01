@@ -34,6 +34,6 @@ It leverages Excel’s data analysis and visualization capabilities to enable cl
 Filter by Category
 
 ## Data Snapshots
-![Dataset]()
-![Analysis]()
-![Dashboard]()
+![Table](https://github.com/Ola-ykay/Sales-Performance/blob/main/Sales-Perf-Table.png)
+![Analysis](https://github.com/Ola-ykay/Sales-Performance/blob/main/Analysis-Sales.png)
+![Dashboard](https://github.com/Ola-ykay/Sales-Performance/blob/main/Sales-Perf-Dashboard.png)
